@@ -162,6 +162,35 @@ ZTGaming.shared.onRealtimeMessageUpdated.subscribe(with: self) { (realtimeMessag
 
 ```
 
+#### Set precision mode
+
+To change precision mode call method `setPrecisionMode` with parameter `ZTAlgoPrecisionMode`
+```swift
+    ZTGaming.shared.setPrecisionMode(mode: .performanceMode) { error in
+        debugPrint("\(String(describing: error?.localizedDescription))")
+    }
+```
+#### Set minimum consecutive number of steps for analysis
+
+To set the minimum number of consecutive steps use method `setNumberOfSteps` and pass activityType and number of steps.
+```swift
+    ZTGaming.shared.setNumberOfSteps(activityType: .active, steps: 3) { error in
+        debugPrint("\(String(describing: error?.localizedDescription))")
+    }
+```
+#### Enable / disable the streaming of values
+ 
+To enable the streaming of metrics values call method `setStreaming` with parameter `enable: true`.
+`interval` (in millisecond) defines the interval between two values to stream.
+`activityType` is `ZTActivityType`
+```swift
+    ZTGaming.shared.setStreaming(enable: true, interval: 200, activityType: .jump, metricsId: 0x01) { error in
+        self.addLog("setStreaming: enable streaming mode error=\(String(describing: error))")
+    }
+```
+To disable the streaming of metrics values call method `setStreaming` with parameter `enable: false`, `activityType` and `metricsId` for which to disable streaming.
+
+
 ## Author
 
 ZhorTech [@zhortech](https://twitter.com/zhortech)

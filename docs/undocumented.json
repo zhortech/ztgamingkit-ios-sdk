@@ -1,0 +1,565 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 12,
+      "symbol": "ZTActivityType.staticType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 13,
+      "symbol": "ZTActivityType.dynamic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 14,
+      "symbol": "ZTActivityType.walking",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 15,
+      "symbol": "ZTActivityType.running",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 16,
+      "symbol": "ZTActivityType.cycling",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 17,
+      "symbol": "ZTActivityType.jump",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 18,
+      "symbol": "ZTActivityType.stairsUp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 19,
+      "symbol": "ZTActivityType.stairsDown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 20,
+      "symbol": "ZTActivityType.staticOther",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 21,
+      "symbol": "ZTActivityType.kneel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 22,
+      "symbol": "ZTActivityType.tiptoe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 23,
+      "symbol": "ZTActivityType.vibration",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 24,
+      "symbol": "ZTActivityType.trampling",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 25,
+      "symbol": "ZTActivityType.crawling",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 26,
+      "symbol": "ZTActivityType.dynamicOther",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 27,
+      "symbol": "ZTActivityType.slip",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 28,
+      "symbol": "ZTActivityType.trip",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 29,
+      "symbol": "ZTActivityType.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTActivityType.swift",
+      "line": 30,
+      "symbol": "ZTActivityType.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 12,
+      "symbol": "ZTAlgoAcknowledgmentStatus.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 13,
+      "symbol": "ZTAlgoAcknowledgmentStatus.busy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 14,
+      "symbol": "ZTAlgoAcknowledgmentStatus.invalidParam",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 15,
+      "symbol": "ZTAlgoAcknowledgmentStatus.invalidState",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 16,
+      "symbol": "ZTAlgoAcknowledgmentStatus.fwResForbidden",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 17,
+      "symbol": "ZTAlgoAcknowledgmentStatus.notSupported",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 18,
+      "symbol": "ZTAlgoAcknowledgmentStatus.unknownCommand",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 19,
+      "symbol": "ZTAlgoAcknowledgmentStatus.commandInProgress",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoAcknowledgmentStatus.swift",
+      "line": 20,
+      "symbol": "ZTAlgoAcknowledgmentStatus.noPeerResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoMode.swift",
+      "line": 12,
+      "symbol": "ZTAlgoMode.monitoring",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoMode.swift",
+      "line": 13,
+      "symbol": "ZTAlgoMode.gaming",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 12,
+      "symbol": "ZTAlgoStateId.undefined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 13,
+      "symbol": "ZTAlgoStateId.walking",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 14,
+      "symbol": "ZTAlgoStateId.running",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 15,
+      "symbol": "ZTAlgoStateId.pedaling",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 16,
+      "symbol": "ZTAlgoStateId.jump",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 17,
+      "symbol": "ZTAlgoStateId.stairsUp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 18,
+      "symbol": "ZTAlgoStateId.stairsDown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 19,
+      "symbol": "ZTAlgoStateId.standing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 20,
+      "symbol": "ZTAlgoStateId.sitting",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 21,
+      "symbol": "ZTAlgoStateId.kneeling",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 22,
+      "symbol": "ZTAlgoStateId.tiptoe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 23,
+      "symbol": "ZTAlgoStateId.vibration",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 24,
+      "symbol": "ZTAlgoStateId.slip",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 25,
+      "symbol": "ZTAlgoStateId.incident",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStateId.swift",
+      "line": 26,
+      "symbol": "ZTAlgoStateId.freewheel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStatusId.swift",
+      "line": 12,
+      "symbol": "ZTAlgoStatusId.timestamp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStatusId.swift",
+      "line": 13,
+      "symbol": "ZTAlgoStatusId.modeId",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStatusId.swift",
+      "line": 14,
+      "symbol": "ZTAlgoStatusId.precisionMode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTAlgoStatusId.swift",
+      "line": 15,
+      "symbol": "ZTAlgoStatusId.numberOfSteps",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTEnumProtocol.swift",
+      "line": 10,
+      "symbol": "ZTEnum",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTEnumProtocol.swift",
+      "line": 14,
+      "symbol": "ZTEnum",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTRealtimeMessageEventType.swift",
+      "line": 12,
+      "symbol": "ZTRealtimeMessageEventType.status",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTRealtimeMessageEventType.swift",
+      "line": 13,
+      "symbol": "ZTRealtimeMessageEventType.acknowledgment",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTRealtimeMessageEventType.swift",
+      "line": 14,
+      "symbol": "ZTRealtimeMessageEventType.realTimeEvent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTRealtimeMessageEventType.swift",
+      "line": 15,
+      "symbol": "ZTRealtimeMessageEventType.realTimeMetrics",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTRealtimeMessageEventType.swift",
+      "line": 16,
+      "symbol": "ZTRealtimeMessageEventType.warning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Enums/ZTRealtimeMessageEventType.swift",
+      "line": 17,
+      "symbol": "ZTRealtimeMessageEventType.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/Activity/ZTBalistonActivitySummary.swift",
+      "line": 16,
+      "symbol": "ZTGamingActivitySummary.attributes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTRealtimeMessage+Acknowledgment.swift",
+      "line": 12,
+      "symbol": "ZTRealtimeMessage.Acknowledgment",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTRealtimeMessage+Event.swift",
+      "line": 10,
+      "symbol": "ZTRealtimeMessage.Event",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTRealtimeMessage+Event.swift",
+      "line": 11,
+      "symbol": "ZTRealtimeMessage.Event",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTRealtimeMessage+Metrics.swift",
+      "line": 11,
+      "symbol": "ZTRealtimeMessage.Metrics",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTRealtimeMessage+Status.swift",
+      "line": 11,
+      "symbol": "ZTRealtimeMessage.Status",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift",
+      "line": 20,
+      "symbol": "ZTRealtimeMessage.Side.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift",
+      "line": 21,
+      "symbol": "ZTRealtimeMessage.Side.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTUserDataParameters.swift",
+      "line": 12,
+      "symbol": "ZTUserDataParameters.bodyWeight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTUserDataParameters.swift",
+      "line": 13,
+      "symbol": "ZTUserDataParameters.bodyHeight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTUserDataParameters.swift",
+      "line": 14,
+      "symbol": "ZTUserDataParameters.shoeSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTUserDataParameters.swift",
+      "line": 15,
+      "symbol": "ZTUserDataParameters.threadmillSpeed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/Models/ZTUserDataParameters.swift",
+      "line": 30,
+      "symbol": "ZTUserDataParameters.Parameters",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming+DFU.swift",
+      "line": 13,
+      "symbol": "ZTGamingDfuDelegate.dfuDelegate(firmwareDownloaded:version:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming+DFU.swift",
+      "line": 14,
+      "symbol": "ZTGamingDfuDelegate.dfuDelegate(didFinish:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming+DFU.swift",
+      "line": 15,
+      "symbol": "ZTGamingDfuDelegate.dfuDelegate(didFail:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming+DFU.swift",
+      "line": 16,
+      "symbol": "ZTGamingDfuDelegate.dfuDelegate(progress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming+DFU.swift",
+      "line": 17,
+      "symbol": "ZTGamingDfuDelegate.dfuDelegate(leftDidFinish:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming+DFU.swift",
+      "line": 18,
+      "symbol": "ZTGamingDfuDelegate.dfuDelegate(rightDidFinish:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming.swift",
+      "line": 11,
+      "symbol": "ZTGaming",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming.swift",
+      "line": 12,
+      "symbol": "ZTGaming",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming.swift",
+      "line": 16,
+      "symbol": "ZTGaming",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit/Sources/ZTGamingKit/ZTGaming.swift",
+      "line": 21,
+      "symbol": "ZTGaming",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/pavel/Documents/Work/Zhortech/Framework/iOS/ztexample/sdks/ztgamingkit"
+}

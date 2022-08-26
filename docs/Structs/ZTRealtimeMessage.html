@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ZTRealtimeMessage Structure Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+    <script src="../js/lunr.min.js" defer></script>
+    <script src="../js/typeahead.jquery.js" defer></script>
+    <script src="../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Struct/ZTRealtimeMessage" class="dashAnchor"></a>
+    <a title="ZTRealtimeMessage Structure Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html">ZTGamingKit 1.0.0 Docs</a></p>
+        <p class="header-right"><a href="https://github.com/zhortech/ztgamingkit-ios-sdk"><img src="../img/gh.png" alt="GitHub"/>View on GitHub</a></p>
+        <div class="header-right">
+          <form role="search" action="../search.json">
+            <input type="text" placeholder="Search documentation" data-typeahead>
+          </form>
+        </div>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html">ZTGamingKit Reference</a>
+        <img id="carat" src="../img/carat.png" alt=""/>
+        ZTRealtimeMessage Structure Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Realtime%20message.html">Realtime message</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/ZTRealtimeMessage.html">ZTRealtimeMessage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ZTRealtimeMessage.html#/s:11ZTGamingKit17ZTRealtimeMessageV4SideO">– Side</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enums</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums.html#/s:11ZTGamingKit14ZTActivityTypeO">ZTActivityType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums.html#/s:11ZTGamingKit10ZTAlgoModeO">ZTAlgoMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums.html#/s:11ZTGamingKit26ZTAlgoAcknowledgmentStatusO">ZTAlgoAcknowledgmentStatus</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ZTAlgoPrecisionMode.html">ZTAlgoPrecisionMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums.html#/s:11ZTGamingKit13ZTAlgoStateIdO">ZTAlgoStateId</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums.html#/s:11ZTGamingKit14ZTAlgoStatusIdO">ZTAlgoStatusId</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ZTPassthroughAlgo.html">ZTPassthroughAlgo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums.html#/s:11ZTGamingKit26ZTRealtimeMessageEventTypeO">ZTRealtimeMessageEventType</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Other%20Classes.html">Other Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/ZTGamingActivity.html">ZTGamingActivity</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ZTGamingActivitySummary.html">ZTGamingActivitySummary</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Other%20Classes.html#/s:11ZTGamingKit0A11SegmentDataC">ZTGamingSegmentData</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ZTUserDataParameters.html">ZTUserDataParameters</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Other%20Protocols.html">Other Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Other%20Protocols.html#/s:11ZTGamingKit0A11DfuDelegateP">ZTGamingDfuDelegate</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Other%20Typealiases.html">Other Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Other%20Typealiases.html#/s:11ZTGamingKit16ZTActivityResulta">ZTActivityResult</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>ZTRealtimeMessage</h1>
+              <div class="declaration">
+                <div class="language">
+                  
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ZTRealtimeMessage</span> <span class="p">:</span> <span class="kt">CustomStringConvertible</span></code></pre>
+
+                </div>
+              </div>
+            <p>Realtime message</p>
+
+              <div class="slightly-smaller">
+                <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L12-L96">Show on GitHub</a>
+              </div>
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV11descriptionSSvp"></a>
+                    <a name="//apple_ref/swift/Property/description" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV11descriptionSSvp">description</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Description for realtime message</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">description</span><span class="p">:</span> <span class="kt">String</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L14-L16">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV4SideO"></a>
+                    <a name="//apple_ref/swift/Enum/Side" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV4SideO">Side</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Shoe side enum</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Side</span> <span class="p">:</span> <span class="kt">UInt8</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L19-L22">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV10senderSide06ZTCoreB008ZTModuleF0OSgvp"></a>
+                    <a name="//apple_ref/swift/Property/senderSide" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV10senderSide06ZTCoreB008ZTModuleF0OSgvp">senderSide</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Data sender side</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">senderSide</span><span class="p">:</span> <span class="kt">ZTModuleSide</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L28-L35">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV13concernedSideAC0F0OSgvp"></a>
+                    <a name="//apple_ref/swift/Property/concernedSide" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV13concernedSideAC0F0OSgvp">concernedSide</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Side</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">concernedSide</span><span class="p">:</span> <span class="kt"><a href="../Structs/ZTRealtimeMessage.html#/s:11ZTGamingKit17ZTRealtimeMessageV4SideO">Side</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L38-L45">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV9eventTypeAA0cd5EventF0OSgvp"></a>
+                    <a name="//apple_ref/swift/Property/eventType" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV9eventTypeAA0cd5EventF0OSgvp">eventType</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Event type</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">eventType</span><span class="p">:</span> <span class="kt"><a href="../Enums.html#/s:11ZTGamingKit26ZTRealtimeMessageEventTypeO">ZTRealtimeMessageEventType</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L48-L55">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV7contentSays5UInt8VGvp"></a>
+                    <a name="//apple_ref/swift/Property/content" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV7contentSays5UInt8VGvp">content</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Message content to parse separately if needed</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">content</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt8</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L58-L64">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV5bytesACSays5UInt8VG_tcfc"></a>
+                    <a name="//apple_ref/swift/Method/init(bytes:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV5bytesACSays5UInt8VG_tcfc">init(bytes:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Initializer</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">bytes</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt8</span><span class="p">])</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>bytes</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>payload as <code>[UInt8]</code></p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L68-L71">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV6statusAC6StatusVSgvp"></a>
+                    <a name="//apple_ref/swift/Property/status" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV6statusAC6StatusVSgvp">status</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Status from request</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">status</span><span class="p">:</span> <span class="kt">ZTRealtimeMessage</span><span class="o">.</span><span class="kt">Status</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L74-L77">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV14acknowledgmentAC14AcknowledgmentVSgvp"></a>
+                    <a name="//apple_ref/swift/Property/acknowledgment" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV14acknowledgmentAC14AcknowledgmentVSgvp">acknowledgment</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Acknowledgment</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">acknowledgment</span><span class="p">:</span> <span class="kt">ZTRealtimeMessage</span><span class="o">.</span><span class="kt">Acknowledgment</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L80-L83">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV13realtimeEventAC0F0VSgvp"></a>
+                    <a name="//apple_ref/swift/Property/realtimeEvent" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV13realtimeEventAC0F0VSgvp">realtimeEvent</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Real time event</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realtimeEvent</span><span class="p">:</span> <span class="kt">ZTRealtimeMessage</span><span class="o">.</span><span class="kt">Event</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L86-L89">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11ZTGamingKit17ZTRealtimeMessageV15realtimeMetricsAC0F0VSgvp"></a>
+                    <a name="//apple_ref/swift/Property/realtimeMetrics" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11ZTGamingKit17ZTRealtimeMessageV15realtimeMetricsAC0F0VSgvp">realtimeMetrics</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Real time values</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realtimeMetrics</span><span class="p">:</span> <span class="kt">ZTRealtimeMessage</span><span class="o">.</span><span class="kt">Metrics</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/zhortech/ztgamingkit-ios-sdk/tree/master/Sources/ZTGamingKit/Models/ZTRealtimeMessage.swift#L92-L95">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2022 <a class="link" href="https://zhortech.com" target="_blank" rel="external noopener">Zhortech</a>. All rights reserved. (Last updated: 2022-08-26)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.2</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</html>

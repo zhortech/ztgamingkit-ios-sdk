@@ -352,10 +352,35 @@ public enum ZTPassthroughAlgo : Swift.Codable, ZTGamingKit.ZTEnum {
 extension ZTGamingKit.ZTGaming {
   public func readGeneralState(completion: @escaping ((ZTCoreKit.ZTDeviceActualState?, ZTCoreKit.ZTError?) -> Swift.Void))
   public func setProductMode(mode: ZTGamingKit.ZTAlgoMode, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  
+  #if compiler(>=5.3) && $AsyncAwait
+  public func setProductMode(mode: ZTGamingKit.ZTAlgoMode) async throws
+  #endif
+
   public func setPrecisionMode(mode: ZTGamingKit.ZTAlgoPrecisionMode, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  
+  #if compiler(>=5.3) && $AsyncAwait
+  public func setPrecisionMode(mode: ZTGamingKit.ZTAlgoPrecisionMode) async throws
+  #endif
+
   public func setNumberOfSteps(activityType: ZTGamingKit.ZTActivityType, steps: Swift.UInt8, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  
+  #if compiler(>=5.3) && $AsyncAwait
+  public func setNumberOfSteps(activityType: ZTGamingKit.ZTActivityType, steps: Swift.UInt8) async throws
+  #endif
+
   public func setStreaming(enable: Swift.Bool, interval: Swift.UInt16, activityType: ZTGamingKit.ZTActivityType, metricsId: Swift.UInt8, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  
+  #if compiler(>=5.3) && $AsyncAwait
+  public func setStreaming(enable: Swift.Bool, interval: Swift.UInt16, activityType: ZTGamingKit.ZTActivityType, metricsId: Swift.UInt8) async throws
+  #endif
+
   public func checkMode(completion: @escaping ((ZTGamingKit.ZTAlgoMode?, ZTCoreKit.ZTError?) -> Swift.Void))
+  
+  #if compiler(>=5.3) && $AsyncAwait
+  public func checkMode() async throws -> (ZTGamingKit.ZTAlgoMode?, ZTCoreKit.ZTError?)
+  #endif
+
 }
 extension ZTGamingKit.ZTRealtimeMessage {
   public struct Metrics : Swift.CustomStringConvertible {

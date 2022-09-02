@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'ZTGamingKit'
-  s.version = '1.0.1'
+  s.version = '1.0.2'
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.summary = 'Official Zhortech ZTGamingKit SDK for iOS.'
   s.homepage = 'https://github.com/zhortech/ztgamingkit-ios-sdk'

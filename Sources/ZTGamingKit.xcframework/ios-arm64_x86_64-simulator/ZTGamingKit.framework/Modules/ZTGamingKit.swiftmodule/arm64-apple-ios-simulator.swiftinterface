@@ -378,7 +378,7 @@ extension ZTGamingKit.ZTGaming {
   public func checkMode(completion: @escaping ((ZTGamingKit.ZTAlgoMode?, ZTCoreKit.ZTError?) -> Swift.Void))
   
   #if compiler(>=5.3) && $AsyncAwait
-  public func checkMode() async throws -> (ZTGamingKit.ZTAlgoMode?, ZTCoreKit.ZTError?)
+  public func checkMode() async throws -> ZTGamingKit.ZTAlgoMode?
   #endif
 
 }

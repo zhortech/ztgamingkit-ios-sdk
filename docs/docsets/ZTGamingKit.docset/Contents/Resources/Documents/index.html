@@ -16,7 +16,7 @@
     <a title="ZTGamingKit  Reference"></a>
     <header>
       <div class="content-wrapper">
-        <p><a href="index.html">ZTGamingKit 1.0.0 Docs</a></p>
+        <p><a href="index.html">ZTGamingKit 1.0.2 Docs</a></p>
         <p class="header-right"><a href="https://github.com/zhortech/ztgamingkit-ios-sdk"><img src="img/gh.png" alt="GitHub"/>View on GitHub</a></p>
         <div class="header-right">
           <form role="search" action="search.json">
@@ -273,6 +273,31 @@ Payload can be used to parse additional information like metrics values.</p>
 <span class="p">}</span>
 
 </code></pre>
+<h4 id='set-precision-mode' class='heading'>Set precision mode</h4>
+
+<p>To change precision mode call method <code>setPrecisionMode</code> with parameter <code><a href="Enums/ZTAlgoPrecisionMode.html">ZTAlgoPrecisionMode</a></code></p>
+<pre class="highlight swift"><code>    <span class="kt">ZTGaming</span><span class="o">.</span><span class="n">shared</span><span class="o">.</span><span class="nf">setPrecisionMode</span><span class="p">(</span><span class="nv">mode</span><span class="p">:</span> <span class="o">.</span><span class="n">performanceMode</span><span class="p">)</span> <span class="p">{</span> <span class="n">error</span> <span class="k">in</span>
+        <span class="nf">debugPrint</span><span class="p">(</span><span class="s">"</span><span class="se">\(</span><span class="kt">String</span><span class="p">(</span><span class="nv">describing</span><span class="p">:</span> <span class="n">error</span><span class="p">?</span><span class="o">.</span><span class="n">localizedDescription</span><span class="p">)</span><span class="se">)</span><span class="s">"</span><span class="p">)</span>
+    <span class="p">}</span>
+</code></pre>
+<h4 id='set-minimum-consecutive-number-of-steps-for-analysis' class='heading'>Set minimum consecutive number of steps for analysis</h4>
+
+<p>To set the minimum number of consecutive steps use method <code>setNumberOfSteps</code> and pass activityType and number of steps.</p>
+<pre class="highlight swift"><code>    <span class="kt">ZTGaming</span><span class="o">.</span><span class="n">shared</span><span class="o">.</span><span class="nf">setNumberOfSteps</span><span class="p">(</span><span class="nv">activityType</span><span class="p">:</span> <span class="o">.</span><span class="n">active</span><span class="p">,</span> <span class="nv">steps</span><span class="p">:</span> <span class="mi">3</span><span class="p">)</span> <span class="p">{</span> <span class="n">error</span> <span class="k">in</span>
+        <span class="nf">debugPrint</span><span class="p">(</span><span class="s">"</span><span class="se">\(</span><span class="kt">String</span><span class="p">(</span><span class="nv">describing</span><span class="p">:</span> <span class="n">error</span><span class="p">?</span><span class="o">.</span><span class="n">localizedDescription</span><span class="p">)</span><span class="se">)</span><span class="s">"</span><span class="p">)</span>
+    <span class="p">}</span>
+</code></pre>
+<h4 id='enable-disable-the-streaming-of-values' class='heading'>Enable / disable the streaming of values</h4>
+
+<p>To enable the streaming of metrics values call method <code>setStreaming</code> with parameter <code>enable: true</code>.
+<code>interval</code> (in millisecond) defines the interval between two values to stream.
+<code>activityType</code> is <code><a href="Enums.html#/s:11ZTGamingKit14ZTActivityTypeO">ZTActivityType</a></code></p>
+<pre class="highlight swift"><code>    <span class="kt">ZTGaming</span><span class="o">.</span><span class="n">shared</span><span class="o">.</span><span class="nf">setStreaming</span><span class="p">(</span><span class="nv">enable</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span> <span class="nv">interval</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span> <span class="nv">activityType</span><span class="p">:</span> <span class="o">.</span><span class="n">jump</span><span class="p">,</span> <span class="nv">metricsId</span><span class="p">:</span> <span class="mh">0x01</span><span class="p">)</span> <span class="p">{</span> <span class="n">error</span> <span class="k">in</span>
+        <span class="k">self</span><span class="o">.</span><span class="nf">addLog</span><span class="p">(</span><span class="s">"setStreaming: enable streaming mode error=</span><span class="se">\(</span><span class="kt">String</span><span class="p">(</span><span class="nv">describing</span><span class="p">:</span> <span class="n">error</span><span class="p">)</span><span class="se">)</span><span class="s">"</span><span class="p">)</span>
+    <span class="p">}</span>
+</code></pre>
+
+<p>To disable the streaming of metrics values call method <code>setStreaming</code> with parameter <code>enable: false</code>, <code>activityType</code> and <code>metricsId</code> for which to disable streaming.</p>
 <h2 id='author' class='heading'>Author</h2>
 
 <p>ZhorTech <a href="https://twitter.com/zhortech">@zhortech</a></p>
@@ -283,7 +308,7 @@ Payload can be used to parse additional information like metrics values.</p>
           </section>
         </section>
         <section id="footer">
-          <p>&copy; 2022 <a class="link" href="https://zhortech.com" target="_blank" rel="external noopener">Zhortech</a>. All rights reserved. (Last updated: 2022-08-26)</p>
+          <p>&copy; 2022 <a class="link" href="https://zhortech.com" target="_blank" rel="external noopener">Zhortech</a>. All rights reserved. (Last updated: 2022-09-02)</p>
           <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.2</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
         </section>
       </article>

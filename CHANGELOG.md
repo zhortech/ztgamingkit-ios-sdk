@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.2](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.2) (2022-09-02)
+
+- added async `checkMode` method
 
 ## [1.0.1](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.1) (2022-08-29)
 

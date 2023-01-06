@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'ZTGamingKit'
-  s.version = '1.0.2'
+  s.version = '1.0.21'
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.summary = 'Official Zhortech ZTGamingKit SDK for iOS.'
   s.homepage = 'https://github.com/zhortech/ztgamingkit-ios-sdk'
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.source = { :git => 'https://github.com/zhortech/ztgamingkit-ios-sdk.git', :tag => s.version.to_s }
   s.vendored_frameworks = 'Sources/ZTGamingKit.xcframework'
   
-  s.dependency 'ZTCoreKit', '~> 1.1.52' #+s.version.to_s
+  s.dependency 'ZTCoreKit', '~> 1.1.61'
 
   s.ios.deployment_target   = '13.0'
   s.ios.weak_frameworks = 'Foundation'

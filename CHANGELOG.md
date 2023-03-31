@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.3) (2023-01-06)
+
+- use `ZTAlgoCommand` enum
+- changed `senderSide` type for `ZTRealtimeMessage` to be same type as `concernedSide` 
+
 ## [1.0.21](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.21) (2023-01-06)
 
 - `ZTCoreKit` version up

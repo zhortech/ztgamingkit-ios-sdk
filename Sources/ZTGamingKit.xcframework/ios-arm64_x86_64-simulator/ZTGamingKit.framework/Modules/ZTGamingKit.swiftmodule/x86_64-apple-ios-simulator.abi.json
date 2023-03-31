@@ -816,21 +816,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "ZTCoreKit.ZTModuleSide?",
+                "printedName": "ZTGamingKit.ZTRealtimeMessage.Side?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ZTModuleSide",
-                    "printedName": "ZTCoreKit.ZTModuleSide",
-                    "usr": "s:9ZTCoreKit12ZTModuleSideO"
+                    "name": "Side",
+                    "printedName": "ZTGamingKit.ZTRealtimeMessage.Side",
+                    "usr": "s:11ZTGamingKit17ZTRealtimeMessageV4SideO"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:11ZTGamingKit17ZTRealtimeMessageV10senderSide06ZTCoreB008ZTModuleF0OSgvp",
-            "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV10senderSide06ZTCoreB008ZTModuleF0OSgvp",
+            "usr": "s:11ZTGamingKit17ZTRealtimeMessageV10senderSideAC0F0OSgvp",
+            "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV10senderSideAC0F0OSgvp",
             "moduleName": "ZTGamingKit",
             "declAttributes": [
               "AccessControl",
@@ -845,21 +845,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "ZTCoreKit.ZTModuleSide?",
+                    "printedName": "ZTGamingKit.ZTRealtimeMessage.Side?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ZTModuleSide",
-                        "printedName": "ZTCoreKit.ZTModuleSide",
-                        "usr": "s:9ZTCoreKit12ZTModuleSideO"
+                        "name": "Side",
+                        "printedName": "ZTGamingKit.ZTRealtimeMessage.Side",
+                        "usr": "s:11ZTGamingKit17ZTRealtimeMessageV4SideO"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11ZTGamingKit17ZTRealtimeMessageV10senderSide06ZTCoreB008ZTModuleF0OSgvg",
-                "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV10senderSide06ZTCoreB008ZTModuleF0OSgvg",
+                "usr": "s:11ZTGamingKit17ZTRealtimeMessageV10senderSideAC0F0OSgvg",
+                "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV10senderSideAC0F0OSgvg",
                 "moduleName": "ZTGamingKit",
                 "accessorKind": "get"
               }
@@ -1313,21 +1313,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "ZTCoreKit.ZTCommand?",
+                    "printedName": "ZTCoreKit.ZTAlgoCommand?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ZTCommand",
-                        "printedName": "ZTCoreKit.ZTCommand",
-                        "usr": "s:9ZTCoreKit9ZTCommandO"
+                        "name": "ZTAlgoCommand",
+                        "printedName": "ZTCoreKit.ZTAlgoCommand",
+                        "usr": "s:9ZTCoreKit13ZTAlgoCommandO"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Var",
-                "usr": "s:11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB09ZTCommandOSgvp",
-                "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB09ZTCommandOSgvp",
+                "usr": "s:11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB013ZTAlgoCommandOSgvp",
+                "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB013ZTAlgoCommandOSgvp",
                 "moduleName": "ZTGamingKit",
                 "declAttributes": [
                   "AccessControl",
@@ -1342,21 +1342,21 @@
                       {
                         "kind": "TypeNominal",
                         "name": "Optional",
-                        "printedName": "ZTCoreKit.ZTCommand?",
+                        "printedName": "ZTCoreKit.ZTAlgoCommand?",
                         "children": [
                           {
                             "kind": "TypeNominal",
-                            "name": "ZTCommand",
-                            "printedName": "ZTCoreKit.ZTCommand",
-                            "usr": "s:9ZTCoreKit9ZTCommandO"
+                            "name": "ZTAlgoCommand",
+                            "printedName": "ZTCoreKit.ZTAlgoCommand",
+                            "usr": "s:9ZTCoreKit13ZTAlgoCommandO"
                           }
                         ],
                         "usr": "s:Sq"
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB09ZTCommandOSgvg",
-                    "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB09ZTCommandOSgvg",
+                    "usr": "s:11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB013ZTAlgoCommandOSgvg",
+                    "mangledName": "$s11ZTGamingKit17ZTRealtimeMessageV14AcknowledgmentV7command06ZTCoreB013ZTAlgoCommandOSgvg",
                     "moduleName": "ZTGamingKit",
                     "accessorKind": "get"
                   }
@@ -3500,6 +3500,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "ZTCoreKit",
+        "printedName": "ZTCoreKit",
+        "declKind": "Import",
+        "moduleName": "ZTGamingKit"
       },
       {
         "kind": "TypeDecl",
@@ -6108,6 +6115,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "ZTCoreKit",
+        "printedName": "ZTCoreKit",
+        "declKind": "Import",
+        "moduleName": "ZTGamingKit"
       },
       {
         "kind": "TypeDecl",
@@ -9937,6 +9951,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "ZTCoreKit",
+        "printedName": "ZTCoreKit",
+        "declKind": "Import",
+        "moduleName": "ZTGamingKit"
+      },
+      {
         "kind": "TypeDecl",
         "name": "ZTPassthroughAlgo",
         "printedName": "ZTPassthroughAlgo",
@@ -10738,104 +10759,104 @@
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
-      "length": 1,
-      "value": "0"
+      "length": 4,
+      "value": "0x4C"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
-      "offset": 544,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 521,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 544,
-      "length": 1,
-      "value": "1"
+      "offset": 547,
+      "length": 4,
+      "value": "0x52"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
-      "length": 1,
-      "value": "0"
+      "length": 4,
+      "value": "0x4C"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
-      "offset": 544,
-      "length": 1,
-      "value": "1"
+      "offset": 547,
+      "length": 4,
+      "value": "0x52"
+    },
+    {
+      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 521,
+      "length": 4,
+      "value": "0x4C"
+    },
+    {
+      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 547,
+      "length": 4,
+      "value": "0x52"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 227,
+      "offset": 244,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 294,
+      "offset": 311,
       "length": 4,
       "value": "0x01"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 356,
+      "offset": 373,
       "length": 4,
       "value": "0x02"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 227,
+      "offset": 244,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 294,
+      "offset": 311,
       "length": 4,
       "value": "0x01"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 356,
+      "offset": 373,
       "length": 4,
       "value": "0x02"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 227,
+      "offset": 244,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 294,
+      "offset": 311,
       "length": 4,
       "value": "0x01"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoPrecisionMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 356,
+      "offset": 373,
       "length": 4,
       "value": "0x02"
     },
@@ -11241,42 +11262,42 @@
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 175,
+      "offset": 192,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 202,
+      "offset": 219,
       "length": 4,
       "value": "0x01"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 175,
+      "offset": 192,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 202,
+      "offset": 219,
       "length": 4,
       "value": "0x01"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 175,
+      "offset": 192,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTAlgoMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 202,
+      "offset": 219,
       "length": 4,
       "value": "0x01"
     },
@@ -12110,48 +12131,48 @@
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
       "offset": 531,
-      "length": 8,
-      "value": "\"1.0.21\""
+      "length": 7,
+      "value": "\"1.0.3\""
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "BooleanLiteral",
-      "offset": 1880,
+      "offset": 1879,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "IntegerLiteral",
-      "offset": 1944,
+      "offset": 1943,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "BooleanLiteral",
-      "offset": 2008,
+      "offset": 2007,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
-      "offset": 2518,
+      "offset": 2517,
       "length": 96,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
-      "offset": 2613,
+      "offset": 2612,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "BooleanLiteral",
-      "offset": 2924,
+      "offset": 2923,
       "length": 5,
       "value": "false"
     },

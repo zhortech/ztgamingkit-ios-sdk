@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.31](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.31) (2023-04-18)
+
+- `ZTCoreKit` version up
+
 ## [1.0.3](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.3) (2023-01-06)
 
 - use `ZTAlgoCommand` enum

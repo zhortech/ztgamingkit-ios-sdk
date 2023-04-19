@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ZTCoreKit",
+        "repositoryURL": "https://github.com/zhortech/ztcorekit-ios-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "b442684d91fff30f56754bac54a67718303d0582",
+          "version": "1.1.77"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

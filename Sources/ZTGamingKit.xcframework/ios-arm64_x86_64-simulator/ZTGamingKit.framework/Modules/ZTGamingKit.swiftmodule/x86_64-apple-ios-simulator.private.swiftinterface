@@ -8,28 +8,12 @@ import Swift
 import ZTCoreKit
 import _Concurrency
 import _StringProcessing
-public enum ZTAlgoAcknowledgmentStatus : Swift.UInt8, ZTGamingKit.ZTEnum {
-  case success
-  case busy
-  case invalidParam
-  case invalidState
-  case fwResForbidden
-  case notSupported
-  case unknownCommand
-  case commandInProgress
-  case noPeerResponse
-  public init?(rawValue: Swift.UInt8)
-  public typealias RawValue = Swift.UInt8
-  public var rawValue: Swift.UInt8 {
-    get
-  }
-}
 extension ZTGamingKit.ZTRealtimeMessage {
   public struct Acknowledgment : Swift.CustomStringConvertible {
     public var command: ZTCoreKit.ZTAlgoCommand? {
       get
     }
-    public var status: ZTGamingKit.ZTAlgoAcknowledgmentStatus? {
+    public var status: ZTCoreKit.ZTAlgoAcknowledgmentStatus? {
       get
     }
     public var description: Swift.String {
@@ -77,28 +61,18 @@ public struct ZTRealtimeMessage : Swift.CustomStringConvertible {
     get
   }
 }
-public enum ZTAlgoPrecisionMode : Swift.UInt8, ZTGamingKit.ZTEnum {
-  case defaultMode
-  case economicMode
-  case performanceMode
-  public init?(rawValue: Swift.UInt8)
-  public typealias RawValue = Swift.UInt8
-  public var rawValue: Swift.UInt8 {
-    get
-  }
-}
 extension ZTGamingKit.ZTRealtimeMessage {
   public struct Status : Swift.CustomStringConvertible {
-    public var code: ZTGamingKit.ZTAlgoStatusId? {
+    public var code: ZTCoreKit.ZTAlgoStatus? {
       get
     }
     public var timestamp: Swift.UInt32? {
       get
     }
-    public var algoMode: ZTGamingKit.ZTAlgoMode? {
+    public var algoMode: ZTCoreKit.ZTAlgoMode? {
       get
     }
-    public var precisionMode: ZTGamingKit.ZTAlgoPrecisionMode? {
+    public var precisionMode: ZTCoreKit.ZTAlgoPrecisionMode? {
       get
     }
     public var consecutiveSteps: Swift.UInt8? {
@@ -138,28 +112,6 @@ final public class ZTUserDataParameters : Swift.Codable {
   final public func encode(to encoder: Swift.Encoder) throws
   public init(from decoder: Swift.Decoder) throws
 }
-public enum ZTAlgoStateId : Swift.UInt8, ZTGamingKit.ZTEnum {
-  case undefined
-  case walking
-  case running
-  case pedaling
-  case jump
-  case stairsUp
-  case stairsDown
-  case standing
-  case sitting
-  case kneeling
-  case tiptoe
-  case vibration
-  case slip
-  case incident
-  case freewheel
-  public init?(rawValue: Swift.UInt8)
-  public typealias RawValue = Swift.UInt8
-  public var rawValue: Swift.UInt8 {
-    get
-  }
-}
 public protocol ZTGamingDfuDelegate {
   func dfuDelegate(firmwareDownloaded: Swift.Bool, version: Swift.String?)
   func dfuDelegate(didFinish: Swift.Bool)
@@ -178,17 +130,8 @@ extension ZTGamingKit.ZTGaming : ZTCoreKit.ZTDfuDelegate {
   public func dfuDelegate(leftDidFinish newVersion: Swift.String?)
   public func dfuDelegate(rightDidFinish newVersion: Swift.String?)
 }
-public enum ZTAlgoMode : Swift.UInt8, ZTGamingKit.ZTEnum {
-  case monitoring
-  case gaming
-  public init?(rawValue: Swift.UInt8)
-  public typealias RawValue = Swift.UInt8
-  public var rawValue: Swift.UInt8 {
-    get
-  }
-}
 extension ZTGamingKit.ZTRealtimeMessage.Event {
-  public enum EventType : Swift.UInt8, ZTGamingKit.ZTEnum {
+  public enum EventType : Swift.UInt8, ZTCoreKit.ZTEnum {
     case motion
     case transition
     public init?(rawValue: Swift.UInt8)
@@ -197,7 +140,7 @@ extension ZTGamingKit.ZTRealtimeMessage.Event {
       get
     }
   }
-  public enum MotionId : Swift.UInt8, ZTGamingKit.ZTEnum {
+  public enum MotionId : Swift.UInt8, ZTCoreKit.ZTEnum {
     case undefined
     case stepForward
     case stepBackward
@@ -211,7 +154,7 @@ extension ZTGamingKit.ZTRealtimeMessage.Event {
       get
     }
   }
-  public enum MotionIntensity : Swift.UInt8, ZTGamingKit.ZTEnum {
+  public enum MotionIntensity : Swift.UInt8, ZTCoreKit.ZTEnum {
     case undefined
     case low
     case medium
@@ -246,39 +189,13 @@ extension ZTGamingKit.ZTRealtimeMessage {
     public init(data: Foundation.Data)
   }
 }
-public enum ZTRealtimeMessageEventType : Swift.UInt8, ZTGamingKit.ZTEnum {
+public enum ZTRealtimeMessageEventType : Swift.UInt8, ZTCoreKit.ZTEnum {
   case status
   case acknowledgment
   case realTimeEvent
   case realTimeMetrics
   case warning
   case error
-  public init?(rawValue: Swift.UInt8)
-  public typealias RawValue = Swift.UInt8
-  public var rawValue: Swift.UInt8 {
-    get
-  }
-}
-public enum ZTActivityType : Swift.UInt8, ZTGamingKit.ZTEnum {
-  case staticType
-  case dynamic
-  case walking
-  case running
-  case cycling
-  case jump
-  case stairsUp
-  case stairsDown
-  case staticOther
-  case kneel
-  case tiptoe
-  case vibration
-  case trampling
-  case crawling
-  case dynamicOther
-  case slip
-  case trip
-  case active
-  case inactive
   public init?(rawValue: Swift.UInt8)
   public typealias RawValue = Swift.UInt8
   public var rawValue: Swift.UInt8 {
@@ -306,41 +223,12 @@ public typealias ZTActivityResult = (Swift.String?, ZTCoreKit.ZTError?) -> Swift
   public var currentActivity: ZTGamingKit.ZTGamingActivity? {
     get
   }
-  public var currentAlgoMode: ZTGamingKit.ZTAlgoMode? {
+  public var currentAlgoMode: ZTCoreKit.ZTAlgoMode? {
     get
   }
   final public let onRealtimeMessageUpdated: ZTCoreKit.ZTSignal<(ZTGamingKit.ZTRealtimeMessage, [Swift.UInt8])>
   final public let onActivityError: ZTCoreKit.ZTSignal<(ZTCoreKit.ZTError?)>
   @objc deinit
-}
-public enum ZTAlgoStatusId : Swift.UInt8, ZTGamingKit.ZTEnum {
-  case timestamp
-  case modeId
-  case precisionMode
-  case numberOfSteps
-  public init?(rawValue: Swift.UInt8)
-  public typealias RawValue = Swift.UInt8
-  public var rawValue: Swift.UInt8 {
-    get
-  }
-}
-public protocol ZTEnum : Swift.Decodable, Swift.Encodable {
-  var description: Swift.String { get }
-}
-extension ZTGamingKit.ZTEnum {
-  public var description: Swift.String {
-    get
-  }
-}
-public enum ZTPassthroughAlgo : Swift.Codable, ZTGamingKit.ZTEnum {
-  case status(id: ZTGamingKit.ZTAlgoStatusId)
-  case startNewChunk
-  case changeProductMode(mode: ZTGamingKit.ZTAlgoMode)
-  case setPrecisionMode(mode: ZTGamingKit.ZTAlgoPrecisionMode)
-  case setMinimumStepsForAnalysis(activityType: ZTGamingKit.ZTActivityType, steps: Swift.Int)
-  case setStreamingMode(interval: Swift.UInt16, activityType: ZTGamingKit.ZTActivityType, metricsId: Swift.UInt8)
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
 }
 @_inheritsConvenienceInitializers final public class ZTGamingActivity : ZTCoreKit.ZTActivity {
   override final public func save()
@@ -353,30 +241,30 @@ extension ZTGamingKit.ZTGaming {
   #if compiler(>=5.3) && $AsyncAwait
   public func readGeneralState() async throws -> ZTCoreKit.ZTDeviceActualState?
   #endif
-  public func setProductMode(mode: ZTGamingKit.ZTAlgoMode, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  public func setProductMode(mode: ZTCoreKit.ZTAlgoMode, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
   #if compiler(>=5.3) && $AsyncAwait
-  public func setProductMode(mode: ZTGamingKit.ZTAlgoMode) async throws
+  public func setProductMode(mode: ZTCoreKit.ZTAlgoMode) async throws
   #endif
-  public func setPrecisionMode(mode: ZTGamingKit.ZTAlgoPrecisionMode, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  public func setPrecisionMode(mode: ZTCoreKit.ZTAlgoPrecisionMode, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
   #if compiler(>=5.3) && $AsyncAwait
-  public func setPrecisionMode(mode: ZTGamingKit.ZTAlgoPrecisionMode) async throws
+  public func setPrecisionMode(mode: ZTCoreKit.ZTAlgoPrecisionMode) async throws
   #endif
-  public func setNumberOfSteps(activityType: ZTGamingKit.ZTActivityType, steps: Swift.UInt8, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  public func setNumberOfSteps(activityType: ZTCoreKit.ZTActivityType, steps: Swift.UInt8, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
   #if compiler(>=5.3) && $AsyncAwait
-  public func setNumberOfSteps(activityType: ZTGamingKit.ZTActivityType, steps: Swift.UInt8) async throws
+  public func setNumberOfSteps(activityType: ZTCoreKit.ZTActivityType, steps: Swift.UInt8) async throws
   #endif
-  public func setStreaming(enable: Swift.Bool, interval: Swift.UInt16, activityType: ZTGamingKit.ZTActivityType, metricsId: Swift.UInt8, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
+  public func setStreaming(enable: Swift.Bool, interval: Swift.UInt16, activityType: ZTCoreKit.ZTActivityType, metricsId: Swift.UInt8, completion: @escaping ((ZTCoreKit.ZTError?) -> Swift.Void))
   #if compiler(>=5.3) && $AsyncAwait
-  public func setStreaming(enable: Swift.Bool, interval: Swift.UInt16, activityType: ZTGamingKit.ZTActivityType, metricsId: Swift.UInt8) async throws
+  public func setStreaming(enable: Swift.Bool, interval: Swift.UInt16, activityType: ZTCoreKit.ZTActivityType, metricsId: Swift.UInt8) async throws
   #endif
-  public func checkMode(completion: @escaping ((ZTGamingKit.ZTAlgoMode?, ZTCoreKit.ZTError?) -> Swift.Void))
+  public func checkMode(completion: @escaping ((ZTCoreKit.ZTAlgoMode?, ZTCoreKit.ZTError?) -> Swift.Void))
   #if compiler(>=5.3) && $AsyncAwait
-  public func checkMode() async throws -> ZTGamingKit.ZTAlgoMode?
+  public func checkMode() async throws -> ZTCoreKit.ZTAlgoMode?
   #endif
 }
 extension ZTGamingKit.ZTRealtimeMessage {
   public struct Metrics : Swift.CustomStringConvertible {
-    public var activityType: ZTGamingKit.ZTActivityType? {
+    public var activityType: ZTCoreKit.ZTActivityType? {
       get
     }
     public var metricId: Swift.UInt8? {
@@ -391,24 +279,12 @@ extension ZTGamingKit.ZTRealtimeMessage {
     public init(data: Foundation.Data)
   }
 }
-extension ZTGamingKit.ZTAlgoAcknowledgmentStatus : Swift.Equatable {}
-extension ZTGamingKit.ZTAlgoAcknowledgmentStatus : Swift.Hashable {}
-extension ZTGamingKit.ZTAlgoAcknowledgmentStatus : Swift.RawRepresentable {}
 extension ZTGamingKit.ZTRealtimeMessage.Side : Swift.Equatable {}
 extension ZTGamingKit.ZTRealtimeMessage.Side : Swift.Hashable {}
 extension ZTGamingKit.ZTRealtimeMessage.Side : Swift.RawRepresentable {}
-extension ZTGamingKit.ZTAlgoPrecisionMode : Swift.Equatable {}
-extension ZTGamingKit.ZTAlgoPrecisionMode : Swift.Hashable {}
-extension ZTGamingKit.ZTAlgoPrecisionMode : Swift.RawRepresentable {}
 extension ZTGamingKit.ZTUserDataParameters.Parameters : Swift.Equatable {}
 extension ZTGamingKit.ZTUserDataParameters.Parameters : Swift.Hashable {}
 extension ZTGamingKit.ZTUserDataParameters.Parameters : Swift.RawRepresentable {}
-extension ZTGamingKit.ZTAlgoStateId : Swift.Equatable {}
-extension ZTGamingKit.ZTAlgoStateId : Swift.Hashable {}
-extension ZTGamingKit.ZTAlgoStateId : Swift.RawRepresentable {}
-extension ZTGamingKit.ZTAlgoMode : Swift.Equatable {}
-extension ZTGamingKit.ZTAlgoMode : Swift.Hashable {}
-extension ZTGamingKit.ZTAlgoMode : Swift.RawRepresentable {}
 extension ZTGamingKit.ZTRealtimeMessage.Event.EventType : Swift.Equatable {}
 extension ZTGamingKit.ZTRealtimeMessage.Event.EventType : Swift.Hashable {}
 extension ZTGamingKit.ZTRealtimeMessage.Event.EventType : Swift.RawRepresentable {}
@@ -421,9 +297,3 @@ extension ZTGamingKit.ZTRealtimeMessage.Event.MotionIntensity : Swift.RawReprese
 extension ZTGamingKit.ZTRealtimeMessageEventType : Swift.Equatable {}
 extension ZTGamingKit.ZTRealtimeMessageEventType : Swift.Hashable {}
 extension ZTGamingKit.ZTRealtimeMessageEventType : Swift.RawRepresentable {}
-extension ZTGamingKit.ZTActivityType : Swift.Equatable {}
-extension ZTGamingKit.ZTActivityType : Swift.Hashable {}
-extension ZTGamingKit.ZTActivityType : Swift.RawRepresentable {}
-extension ZTGamingKit.ZTAlgoStatusId : Swift.Equatable {}
-extension ZTGamingKit.ZTAlgoStatusId : Swift.Hashable {}
-extension ZTGamingKit.ZTAlgoStatusId : Swift.RawRepresentable {}

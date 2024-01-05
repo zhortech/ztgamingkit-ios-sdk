@@ -7131,683 +7131,2867 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 947,
+      "length": 58,
+      "value": "\"[ZTGamingKit]: parseGenericData messageId=%@, payload=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1007,
+      "length": 23,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1029,
+      "length": 4,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1032,
+      "length": 21,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1049,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1052,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1753,
+      "length": 44,
+      "value": "\"[ZTGamingKit]: checkCommonGroupResult - %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1799,
+      "length": 29,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 1827,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 2358,
+      "length": 38,
+      "value": "\"[ZTGamingKit]: parseMessageTime - %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 2398,
+      "length": 19,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+NotifyData.swift",
+      "kind": "StringLiteral",
+      "offset": 2416,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "IntegerLiteral",
+      "offset": 359,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "IntegerLiteral",
+      "offset": 421,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "IntegerLiteral",
+      "offset": 698,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "IntegerLiteral",
+      "offset": 760,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "StringLiteral",
+      "offset": 1008,
+      "length": 71,
+      "value": "\"Algo command=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "StringLiteral",
+      "offset": 1041,
+      "length": 1,
+      "value": "\", Status=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "StringLiteral",
+      "offset": 1075,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Acknowledgment.swift",
+      "kind": "StringLiteral",
+      "offset": 1078,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 295,
+      "length": 145,
+      "value": "\"SenderSide=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 330,
+      "length": 1,
+      "value": "\", concernedSide=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 372,
+      "length": 1,
+      "value": "\", eventType=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 412,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 415,
+      "length": 1,
+      "value": "\", content=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 439,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
       "length": 4,
       "value": "0x4C"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 547,
       "length": 4,
       "value": "0x52"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
       "length": 4,
       "value": "0x4C"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 547,
       "length": 4,
       "value": "0x52"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
       "length": 4,
       "value": "0x4C"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
       "kind": "IntegerLiteral",
       "offset": 547,
       "length": 4,
       "value": "0x52"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 700,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 754,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 969,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1023,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1263,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1317,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1559,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1603,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 346,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 408,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 664,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 723,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 970,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1028,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1302,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1360,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1659,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1717,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "StringLiteral",
+      "offset": 1927,
+      "length": 105,
+      "value": "\"Status=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "StringLiteral",
+      "offset": 1958,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "StringLiteral",
+      "offset": 1961,
+      "length": 1,
+      "value": "\", timestamp=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1988,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "StringLiteral",
+      "offset": 1990,
+      "length": 1,
+      "value": "\", algoMode=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "StringLiteral",
+      "offset": 2028,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Status.swift",
+      "kind": "StringLiteral",
+      "offset": 2031,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivitySummary.swift",
+      "kind": "StringLiteral",
+      "offset": 742,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivitySummary.swift",
+      "kind": "StringLiteral",
+      "offset": 777,
+      "length": 12,
+      "value": "\"attributes\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 899,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 930,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 959,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 995,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 899,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 930,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 959,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 995,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 899,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 930,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 959,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTUserDataParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 995,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 678,
+      "length": 34,
+      "value": "\"[ZTGamingKit]: updateFirmware %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 714,
+      "length": 7,
+      "value": "\"start\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 1064,
+      "length": 48,
+      "value": "\"[ZTGamingKit]: general state is empty start %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 1114,
+      "length": 18,
+      "value": "\"readGeneralState\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 1225,
+      "length": 41,
+      "value": "\"[ZTGamingKit]: general state reading %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 1268,
+      "length": 7,
+      "value": "\"ended\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1901,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "FloatLiteral",
+      "offset": 2069,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2117,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2150,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 2435,
+      "length": 34,
+      "value": "\"[ZTGamingKit]: updateFirmware %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 2471,
+      "length": 7,
+      "value": "\"start\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 2821,
+      "length": 48,
+      "value": "\"[ZTGamingKit]: general state is empty start %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 2871,
+      "length": 18,
+      "value": "\"readGeneralState\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 2982,
+      "length": 41,
+      "value": "\"[ZTGamingKit]: general state reading %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "StringLiteral",
+      "offset": 3025,
+      "length": 7,
+      "value": "\"ended\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3658,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "FloatLiteral",
+      "offset": 3836,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3884,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3917,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4253,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4396,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+DFU.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4549,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 283,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 283,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 283,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 389,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 424,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 459,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 494,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 529,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 564,
       "length": 4,
       "value": "0x05"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 599,
       "length": 4,
       "value": "0x06"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 389,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 424,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 459,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 494,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 529,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 564,
       "length": 4,
       "value": "0x05"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 599,
       "length": 4,
       "value": "0x06"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 389,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 424,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 459,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 494,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 529,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 564,
       "length": 4,
       "value": "0x05"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 599,
       "length": 4,
       "value": "0x06"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 708,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 739,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 770,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 801,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 708,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 739,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 770,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 801,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 708,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 739,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 770,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 801,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 541,
+      "length": 23,
+      "value": "\"\/rest\/activity\/create\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 20,
+      "value": "\"\/rest\/message\/send\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 690,
+      "length": 24,
+      "value": "\"\/baliston\/message\/send\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 771,
+      "length": 21,
+      "value": "\"\/rest\/message\/\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 791,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 842,
+      "length": 24,
+      "value": "\"\/rest\/message\/messages\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 937,
+      "length": 47,
+      "value": "\"\/rest\/message\/canned?identifier=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 983,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 1041,
+      "length": 24,
+      "value": "\"\/baliston\/tile\/\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 1064,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 1126,
+      "length": 28,
+      "value": "\"\/baliston\/mobility\/\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 1153,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 1225,
+      "length": 27,
+      "value": "\"\/baliston\/user\/myShoeData\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 1255,
+      "length": 35,
+      "value": "\"\/baliston\/user\/myShoeData\/\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGamingRoute.swift",
+      "kind": "StringLiteral",
+      "offset": 1289,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
       "kind": "IntegerLiteral",
       "offset": 352,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 585,
+      "length": 47,
+      "value": "\"[ZTGamingKit]: starting automatic activity %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 634,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1328,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1967,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 2024,
+      "length": 44,
+      "value": "\"[ZTGamingKit]: start automatic activity %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 2070,
+      "length": 9,
+      "value": "\"timeout\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 2469,
+      "length": 33,
+      "value": "\"[ZTGamingKit]: stop activity %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 2504,
+      "length": 9,
+      "value": "\"started\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2604,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2648,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3209,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3458,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 3668,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3890,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Activity.swift",
+      "kind": "StringLiteral",
+      "offset": 4099,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 338,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 397,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 613,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 675,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 933,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 995,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1260,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1322,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1574,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1622,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1817,
+      "length": 153,
+      "value": "\"EventType=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1856,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1859,
+      "length": 1,
+      "value": "\", motion=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1895,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1898,
+      "length": 1,
+      "value": "\", intensity=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1938,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1941,
+      "length": 9,
+      "value": "\" timestamp=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1967,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Event.swift",
+      "kind": "StringLiteral",
+      "offset": 1969,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 251,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 286,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 321,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 356,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 391,
       "length": 4,
       "value": "0xFE"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 426,
       "length": 4,
       "value": "0xFF"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 251,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 286,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 321,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 356,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 391,
       "length": 4,
       "value": "0xFE"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 426,
       "length": 4,
       "value": "0xFF"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 251,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 286,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 321,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 356,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 391,
       "length": 4,
       "value": "0xFE"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Enums\/ZTRealtimeMessageEventType.swift",
       "kind": "IntegerLiteral",
       "offset": 426,
       "length": 4,
       "value": "0xFF"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 514,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 676,
+      "length": 30,
+      "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS'Z'\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 770,
+      "length": 11,
+      "value": "\"startDate\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 857,
+      "length": 9,
+      "value": "\"endDate\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 912,
+      "length": 7,
+      "value": "\"start\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "IntegerLiteral",
+      "offset": 962,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 977,
+      "length": 5,
+      "value": "\"end\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1023,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1038,
+      "length": 4,
+      "value": "\"tz\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1066,
+      "length": 14,
+      "value": "\"activityType\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1082,
+      "length": 10,
+      "value": "\"mobility\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1106,
+      "length": 6,
+      "value": "\"code\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1248,
+      "length": 11,
+      "value": "\"timestamp\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1282,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1328,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1334,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1348,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1375,
+      "length": 15,
+      "value": "\"timestampDate\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1392,
+      "length": 99,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1475,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "FloatLiteral",
+      "offset": 1481,
+      "length": 6,
+      "value": "1000.0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1490,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1517,
+      "length": 12,
+      "value": "\"packetType\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1531,
+      "length": 23,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1553,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1580,
+      "length": 4,
+      "value": "\"tz\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1620,
+      "length": 6,
+      "value": "\"code\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1666,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1726,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1776,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 1852,
+      "length": 8,
+      "value": "\"chunks\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
+      "kind": "StringLiteral",
+      "offset": 2302,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+API.swift",
       "kind": "StringLiteral",
       "offset": 2535,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
       "offset": 358,
       "length": 13,
       "value": "\"ZTGamingKit\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
       "offset": 435,
       "length": 26,
       "value": "\"com.zhortech.ZTGamingKit\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
       "offset": 531,
       "length": 8,
-      "value": "\"1.0.31\""
+      "value": "\"1.0.32\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "BooleanLiteral",
       "offset": 1880,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "IntegerLiteral",
       "offset": 1944,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "BooleanLiteral",
       "offset": 2008,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2344,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2393,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
       "offset": 2518,
       "length": 96,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "StringLiteral",
       "offset": 2613,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
       "kind": "BooleanLiteral",
       "offset": 2924,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 4204,
+      "length": 44,
+      "value": "\"[ZTGamingKit]: device state changed to: %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 4250,
+      "length": 63,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4276,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 4283,
+      "length": 11,
+      "value": "\"connected\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 4297,
+      "length": 14,
+      "value": "\"disconnected\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 4312,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4367,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4426,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4856,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5055,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5533,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 5645,
+      "length": 21,
+      "value": "\"[ZTGamingKit]: init\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 5723,
+      "length": 27,
+      "value": "\"[ZTGamingKit]: deinit !!!\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6007,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6435,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6738,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7023,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7266,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7704,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 7990,
+      "length": 57,
+      "value": "\"[ZTGamingKit]: connected but no activity is running: %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 8049,
+      "length": 36,
+      "value": "\"check and start automatic activity\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8136,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "FloatLiteral",
+      "offset": 8175,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "FloatLiteral",
+      "offset": 8336,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8737,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8929,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 8975,
+      "length": 60,
+      "value": "\"[ZTGamingKit]: checkActivityState reset activity error: %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 9068,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9315,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 9404,
+      "length": 72,
+      "value": "\"[ZTGamingKit]: starting automatic activity after connection, error: %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 9478,
+      "length": 31,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 9508,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 9673,
+      "length": 62,
+      "value": "\"[ZTGamingKit]: started automatic activity after connection%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 9737,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 10046,
+      "length": 72,
+      "value": "\"[ZTGamingKit]: starting automatic activity after connection, error: %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 10120,
+      "length": 31,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 10150,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 10214,
+      "length": 62,
+      "value": "\"[ZTGamingKit]: started automatic activity after connection%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 10278,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 10473,
+      "length": 36,
+      "value": "\"[ZTGamingKit]: checkMode error: %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 10779,
+      "length": 42,
+      "value": "\"[ZTGamingKit]: set Gaming mode error: %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11120,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11151,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11394,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11457,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11836,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11964,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 12441,
+      "length": 45,
+      "value": "\"[ZTGamingKit]: onActivityMetadataUpdated %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 12488,
+      "length": 32,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 12516,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "StringLiteral",
+      "offset": 12519,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12582,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
       "kind": "IntegerLiteral",
       "offset": 429,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
       "kind": "IntegerLiteral",
       "offset": 577,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
       "kind": "IntegerLiteral",
       "offset": 811,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
       "kind": "IntegerLiteral",
       "offset": 957,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
       "kind": "IntegerLiteral",
       "offset": 1049,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "kind": "FloatLiteral",
+      "offset": 1091,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
       "kind": "IntegerLiteral",
       "offset": 1224,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTDataTransforms.swift",
+      "kind": "FloatLiteral",
+      "offset": 1265,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
       "kind": "StringLiteral",
       "offset": 288,
       "length": 33,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 1,
       "value": "\".lastActivity\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "kind": "StringLiteral",
+      "offset": 1402,
+      "length": 41,
+      "value": "\"[ZTGamingKit]: read activity with id=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "kind": "StringLiteral",
+      "offset": 1445,
+      "length": 22,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "kind": "StringLiteral",
+      "offset": 1466,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
       "kind": "StringLiteral",
       "offset": 1637,
       "length": 22,
       "value": "\"lastGamingActivityID\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
       "kind": "StringLiteral",
       "offset": 1720,
       "length": 22,
       "value": "\"isMonitoringActivity\""
     },
     {
-      "filePath": "\/Users\/pavel\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/Activity\/ZTGamingActivity.swift",
       "kind": "StringLiteral",
       "offset": 1801,
       "length": 20,
       "value": "\"userDataParameters\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "FloatLiteral",
+      "offset": 664,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 1201,
+      "length": 41,
+      "value": "\"[ZTGamingKit]: sending command %@ to %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 1244,
+      "length": 14,
+      "value": "\"generalState\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 1260,
+      "length": 40,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 1299,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 3085,
+      "length": 25,
+      "value": "\"Gaming mode was not set\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 3121,
+      "length": 25,
+      "value": "\"Gaming mode was not set\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 3342,
+      "length": 55,
+      "value": "\"[ZTGamingKit]: set product mode command ack, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 3399,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 3433,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 3436,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 4682,
+      "length": 57,
+      "value": "\"[ZTGamingKit]: set precision mode command ack, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 4741,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 4775,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 4778,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6159,
+      "length": 4,
+      "value": "0x05"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 6255,
+      "length": 58,
+      "value": "\"[ZTGamingKit]: set number of steps command ack, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 6315,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 6349,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 6352,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "Array",
+      "offset": 7962,
+      "length": 6,
+      "value": "[0x06]"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8058,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "Array",
+      "offset": 8121,
+      "length": 12,
+      "value": "[0x00, 0x00]"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 8386,
+      "length": 57,
+      "value": "\"[ZTGamingKit]: set streaming mode command ack, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 8445,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 8479,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 8482,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 10650,
+      "length": 66,
+      "value": "\"[ZTGamingKit]: passthroughAlgo mode status command ack, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 10718,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 10752,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 10755,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 11891,
+      "length": 70,
+      "value": "\"[ZTGamingKit]: activity automatic start, actualState changed to `%@`\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 11963,
+      "length": 16,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 11978,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12495,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 12559,
+      "length": 64,
+      "value": "\"[ZTGamingKit]: start automatic activity command sent, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 12625,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 12659,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 12662,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 13247,
+      "length": 63,
+      "value": "\"[ZTGamingKit]: stopAutomaticActivity onGeneralStateUpdated=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 13312,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 13321,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 13756,
+      "length": 62,
+      "value": "\"[ZTGamingKit]: stop automatic activity command ack, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 13820,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 13854,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 13857,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 14290,
+      "length": 39,
+      "value": "\"[ZTGamingKit]: quick stop activity %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 14331,
+      "length": 9,
+      "value": "\"started\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14439,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14483,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14530,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 14726,
+      "length": 41,
+      "value": "\"[ZTGamingKit]: stopAutomaticActivity %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 14769,
+      "length": 9,
+      "value": "\"timeout\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 15220,
+      "length": 62,
+      "value": "\"[ZTGamingKit]: stop automatic activity command ack, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 15284,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 15318,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 15321,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 15844,
+      "length": 49,
+      "value": "\"[ZTGamingKit]: sending GET_TIMESTAMP error - %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 15895,
+      "length": 31,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 15925,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 16417,
+      "length": 49,
+      "value": "\"[ZTGamingKit]: sending GET_TIMESTAMP error - %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 16468,
+      "length": 31,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 16498,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 17600,
+      "length": 49,
+      "value": "\"[ZTGamingKit]: freeMemory - start, lastIndex=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 17651,
+      "length": 18,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17666,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 17668,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17818,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 17963,
+      "length": 43,
+      "value": "\"[ZTGamingKit]: freeMemory - end, error=%@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18008,
+      "length": 39,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18042,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18045,
+      "length": 1,
+      "value": "\")\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18313,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18317,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18358,
+      "length": 38,
+      "value": "\"[ZTGamingKit]: obtainData - start %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18398,
+      "length": 13,
+      "value": "\"free memory\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18582,
+      "length": 54,
+      "value": "\"[ZTGamingKit]: obtainData - end free memory error %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18638,
+      "length": 31,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18668,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18740,
+      "length": 48,
+      "value": "\"[ZTGamingKit]: obtainData - end free memory %@\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "StringLiteral",
+      "offset": 18790,
+      "length": 9,
+      "value": "\"success\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "FloatLiteral",
+      "offset": 18846,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/ZTGaming+Commands.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19115,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 357,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 419,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 650,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 712,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 909,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 957,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "StringLiteral",
+      "offset": 1152,
+      "length": 105,
+      "value": "\"ActivityType=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "StringLiteral",
+      "offset": 1197,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "StringLiteral",
+      "offset": 1200,
+      "length": 1,
+      "value": "\", metrics id=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1227,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "StringLiteral",
+      "offset": 1229,
+      "length": 1,
+      "value": "\", value=\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "StringLiteral",
+      "offset": 1253,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pav\/Documents\/Work\/Zhortech\/Framework\/iOS\/ztexample\/sdks\/ztgamingkit\/Sources\/ZTGamingKit\/Models\/ZTRealtimeMessage+Metrics.swift",
+      "kind": "StringLiteral",
+      "offset": 1256,
+      "length": 1,
+      "value": "\"\""
     }
   ]
 }

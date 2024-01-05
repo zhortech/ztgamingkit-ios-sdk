@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.32](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.32) (2024-01-05)
+
+- `ZTCoreKit` version up
+
 ## [1.0.31](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.31) (2023-04-18)
 
 - `ZTCoreKit` version up

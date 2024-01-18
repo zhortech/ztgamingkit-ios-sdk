@@ -10,11 +10,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TeO2oiBNDZjir8KYmMpa6vxYr3c=
+		elNQYIl9awqeNT2pXH8CKFrz/Og=
 		</data>
 		<key>Modules/ZTGamingKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		OqrdUbI2eF2+lFSsbZp+EO+Igaw=
+		Sz61mVcPhI80joxL8UK5S04lCWU=
 		</data>
 		<key>Modules/ZTGamingKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/ZTGamingKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LX9MTU7Yp+uVVoHlwECyBj3jlps=
+		RMJSBijrV5GBevPq6Lbk21XHlwg=
 		</data>
 		<key>Modules/ZTGamingKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		OqrdUbI2eF2+lFSsbZp+EO+Igaw=
+		Sz61mVcPhI80joxL8UK5S04lCWU=
 		</data>
 		<key>Modules/ZTGamingKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/ZTGamingKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b/5BDW2HoWrntH9AEZJwwH2ezIY=
+		ro9dhfMA8FXysIb1ezrvMMN1C08=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -66,7 +66,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Aatgm81BhX92kHsaLQqZX4+3hUPvJ1bC2XcCCSUSoyg=
+			JBafF6wr/59hNN5fI8gZvDzrchCjgVMyzwPWrazA3T8=
 			</data>
 		</dict>
 		<key>Modules/ZTGamingKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -94,14 +94,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			23XitC0B6dPJyHtgBnS86eb78mePFDRJ9e3cWe5OT04=
+			qVlzmtFPso8kuUACz1bUxskTpdS1QBoz37gSq4ht8bk=
 			</data>
 		</dict>
 		<key>Modules/ZTGamingKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Aatgm81BhX92kHsaLQqZX4+3hUPvJ1bC2XcCCSUSoyg=
+			JBafF6wr/59hNN5fI8gZvDzrchCjgVMyzwPWrazA3T8=
 			</data>
 		</dict>
 		<key>Modules/ZTGamingKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -129,7 +129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2PBKWjI2feOl8SlP51uvOkoiV7DCg+yTXGOxobv9IL4=
+			PncKVF6hnuwN1NewWNTa2i91Xspa0Bxrg/tRB6HWtBE=
 			</data>
 		</dict>
 	</dict>

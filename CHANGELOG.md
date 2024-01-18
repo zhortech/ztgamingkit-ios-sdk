@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.33](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.33) (2024-01-18)
+
+- ZTCoreKit framework is not embedded in ZTBalistonKit.framework anymore, it is linked as a dependency
+
 ## [1.0.32](https://github.com/zhortech/ztgamingkit-ios-sdk.git/-/tags/1.0.32) (2024-01-05)
 
 - `ZTCoreKit` version up
